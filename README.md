@@ -7,7 +7,7 @@ This is a recommendation system containsv modules of TensorFlow, Spark, Jetty Se
 * TensorFlow 2.0+
 
 ## DataSet
-MovieLens(https://grouplens.org/datasets/movielens/)，This project only use part of dataset, only use 1000 movies and it's related rating history.
+MovieLens (https://grouplens.org/datasets/movielens/)， This project only use part of dataset, only use 1000 movies and it's related rating history.
 
 ## Technical Architecture
 This system follow the classical industrial level deep learning recommendation system architecture，include Off-line data processing、model training、near-line data streaming、online server、front-end display。
