@@ -1,5 +1,5 @@
 # Movie recommandation system based on MovieLens dataset
-
+This is a recommendation system containsv modules of TensorFlow, Spark, Jetty Server and other recommendation system skills.
 ## Environment
 * Java 8
 * Scala 2.11
